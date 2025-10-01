@@ -1,65 +1,46 @@
-from aiogram_dialog import Window, Dialog
+from dotenv import load_dotenv
+from aiogram_dialog import Window, Dialog, DialogManager
 from aiogram_dialog.widgets.kbd import Button
+from aiogram_dialog.widgets.input import TextInput
 from aiogram_dialog.widgets.text import Const
 from aiogram_dialog.widgets.media import DynamicMedia
+from aiogram_dialog.api.entities import MediaAttachment, MediaId
 from aiogram import Router
-from aiogram.fsm.state import State, StatesGroup
-from aiogram.types import CallbackQuery
-from aiogram_dialog import DialogManager
+from aiogram.enums import ContentType
+from aiogram.fsm.storage.redis import RedisStorage, DefaultKeyBuilder
+import os
+import redis.asyncio as redis
+from .states import MainMenuDialogStates, RegistrationDialogStates
+from .dialog_functions import (
+    main_menu_registration, main_menu_support, support_back,
+    reg_info_next, reg_info_cancel, fio_next, fio_cancel,
+    confirm_data_send, confirm_data_change, confirm_data_cancel,
+    on_surname_entered, on_name_entered, on_patronymic_entered,
+)
 
 dialog_router = Router()
 
-class MainMenuDialogStates(StatesGroup):
-    main_menu = State()
-    support = State()
-
-class RegistrationDialogStates(StatesGroup):
-    reg_info = State()
-    fio = State()
-    confirm_data = State()
-
-async def main_menu_registration(callback: CallbackQuery, button: Button, manager: DialogManager):
-    await manager.start(RegistrationDialogStates.reg_info)
-
-async def main_menu_support(callback: CallbackQuery, button: Button, manager: DialogManager):
-    await manager.switch_to(MainMenuDialogStates.support)
-
-async def support_back(callback: CallbackQuery, button: Button, manager: DialogManager):
-    await manager.switch_to(MainMenuDialogStates.main_menu)
+async def get_data(**kwargs):
+    image_id = "AgACAgIAAxkDAANBaNkRfGNh9I0vplwzdhjWzRcdQtEAAo78MRsZXshKYAtPuUbhJdMBAAMCAAN5AAM2BA"
+    image = MediaAttachment(ContentType.PHOTO, file_id=MediaId(image_id))
+    return {'photo': image}
 
 
+load_dotenv()
 
 
-async def reg_info_next(callback: CallbackQuery, button: Button, manager: DialogManager):
-    await manager.switch_to(RegistrationDialogStates.fio)
+redis_url = os.getenv("REDIS_URL", "redis://localhost:6379/0")
 
-async def reg_info_cancel(callback: CallbackQuery, button: Button, manager: DialogManager):
-    await manager.start(MainMenuDialogStates.main_menu)
-
-
-async def fio_next(callback: CallbackQuery, button: Button, manager: DialogManager):
-    await manager.start(RegistrationDialogStates.confirm_data)
-
-async def fio_cancel(callback: CallbackQuery, button: Button, manager: DialogManager):
-    await manager.start(MainMenuDialogStates.main_menu)
-
-
-async def confirm_data_send(callback: CallbackQuery, button: Button, manager: DialogManager):
-    await manager.start(MainMenuDialogStates.main_menu)
-
-async def confirm_data_change(callback: CallbackQuery, button: Button, manager: DialogManager):
-    await manager.start(RegistrationDialogStates.fio)
-
-async def confirm_data_cancel(callback: CallbackQuery, button: Button, manager: DialogManager):
-    await manager.start(MainMenuDialogStates.main_menu)
-
+redis_db = redis.from_url(redis_url, decode_responses=True)
 
 main_menu_dialog = Dialog(
     Window(
         Const("Главное меню"),
+        DynamicMedia("photo"),
         Button(Const("Регистрация"), id="main_menu_registration", on_click=main_menu_registration),
         Button(Const("Поддержка"), id="main_menu_support", on_click=main_menu_support),
-        state=MainMenuDialogStates.main_menu
+        state=MainMenuDialogStates.main_menu,
+        getter=get_data
     ),
     Window(
         Const("Поддержка"),
@@ -81,6 +62,21 @@ registration_dialog = Dialog(
         Button(Const("Далее"), id="fio_next", on_click=fio_next),
         Button(Const("Отмена"), id="fio_cancel", on_click=fio_cancel),
         state=RegistrationDialogStates.fio
+    ),
+    Window(
+        Const("Введите фамилию: "),
+        TextInput(id="surname_input", on_success=on_surname_entered),
+        state=RegistrationDialogStates.surname
+    ),
+    Window(
+        Const("Введите имя: "),
+        TextInput(id="name_input", on_success=on_name_entered),
+        state=RegistrationDialogStates.name
+    ),
+    Window(
+        Const("Введите отчество: "),
+        TextInput(id="patronymic_input", on_success=on_patronymic_entered),
+        state=RegistrationDialogStates.patronymic
     ),
     Window(
         Const("Подтверждение"),
