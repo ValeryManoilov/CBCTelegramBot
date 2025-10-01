@@ -1,5 +1,5 @@
 from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy import Column, Integer, String
+from sqlalchemy import Column, BigInteger, String
 
 Base = declarative_base()
 
@@ -7,17 +7,10 @@ class User(Base):
 
     __tablename__ = "user"
 
-    id = Column(
-        Integer,
-        unique=True,
-        primary_key=True,
-        autoincrement=True,
-        nullable=False 
-    )
-
     telegram_id = Column(
-        String,
-        unique=True
+        BigInteger,
+        unique=True,
+        primary_key=True
     )
 
     name = Column(String)
@@ -27,4 +20,4 @@ class User(Base):
     patronymic = Column(String)
 
     def __str__(self):
-        return f"{self.id} - {self.telegram_id} - {self.surname} - {self.name} - {self.patronymic}"
+        return f"{self.telegram_id} - {self.surname} - {self.name} - {self.patronymic}"

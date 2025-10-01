@@ -1,7 +1,7 @@
 from aiogram.types import CallbackQuery
 from aiogram_dialog import DialogManager
 from aiogram_dialog.widgets.kbd import Button
-from .states import MainMenuDialogStates, RegistrationDialogStates
+from .states import MainMenuDialogStates, RegistrationDialogStates, UpdateUserdataStates
 from aiogram_dialog import DialogManager
 from aiogram.types import Message
 from aiogram_dialog.widgets.input import TextInput
@@ -17,6 +17,13 @@ async def main_menu_registration(callback: CallbackQuery, button: Button, manage
 
 async def main_menu_support(callback: CallbackQuery, button: Button, manager: DialogManager):
     await manager.switch_to(MainMenuDialogStates.support)
+
+async def main_menu_logout(callback: CallbackQuery, button: Button, manager: DialogManager):
+    db_manager.delete_user(callback.from_user.id)
+    await manager.start(MainMenuDialogStates.main_menu)
+
+async def update_data_change(callback: CallbackQuery, button: Button, manager: DialogManager):
+    await manager.start(UpdateUserdataStates.surname)
 
 async def support_back(callback: CallbackQuery, button: Button, manager: DialogManager):
     await manager.switch_to(MainMenuDialogStates.main_menu)
@@ -77,3 +84,33 @@ async def on_patronymic_entered(message: Message, widget: TextInput, manager: Di
     manager.dialog_data.update({"patronymic": text})
     await message.answer(f"Отчество сохранено: {text}")
     await manager.switch_to(RegistrationDialogStates.confirm_data)
+
+
+
+async def update_on_surname_entered(message: Message, widget: TextInput, manager: DialogManager, text: str):
+    manager.dialog_data.update({"surname": text})
+    await message.answer(f"Фамилия сохранена: {text}")
+    await manager.switch_to(UpdateUserdataStates.name)
+
+async def update_on_name_entered(message: Message, widget: TextInput, manager: DialogManager, text: str):
+    manager.dialog_data.update({"name": text})
+    await message.answer(f"Имя сохранено: {text}")
+    await manager.switch_to(UpdateUserdataStates.patronymic)
+
+async def update_on_patronymic_entered(message: Message, widget: TextInput, manager: DialogManager, text: str):
+    manager.dialog_data.update({"patronymic": text})
+    await message.answer(f"Отчество сохранено: {text}")
+
+    tg_id = message.from_user.id
+    data = manager.dialog_data
+    
+    new_user = User(
+        telegram_id=tg_id,
+        surname=data["surname"],
+        name=data["name"],
+        patronymic=data["patronymic"]
+    )
+
+    db_manager.update_user(new_user)
+
+    await manager.start(MainMenuDialogStates.main_menu)

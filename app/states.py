@@ -11,3 +11,9 @@ class RegistrationDialogStates(StatesGroup):
     surname = State()
     name = State()
     patronymic = State()
+
+class UpdateUserdataStates(StatesGroup):
+    surname = State()
+    name = State()
+    patronymic = State()
+

@@ -1595,3 +1595,1641 @@ $43
 fsm:1166829801:1166829801:aiogd:stack::data
 $555
 {"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2"], "last_message_id": 229, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:b8brG2:data
+$568
+{"_intent_id": "b8brG2", "_stack_id": "", "state": "RegistrationDialogStates:confirm_data", "start_data": null, "dialog_data": {"surname": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name": "\u0432\u0430\u044b\u0440\u0430\u043f\u0432", "patronymic": "\u044b\u0440\u0432\u043f\u0432\u0430"}, "widget_data": {"surname_input": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name_input": "\u0432\u0430\u044b\u0440\u0430\u043f\u0432", "patronymic_input": "\u044b\u0440\u0432\u043f\u0432\u0430"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:b8brG2:data
+$568
+{"_intent_id": "b8brG2", "_stack_id": "", "state": "RegistrationDialogStates:confirm_data", "start_data": null, "dialog_data": {"surname": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name": "\u0432\u0430\u044b\u0440\u0430\u043f\u0432", "patronymic": "\u044b\u0440\u0432\u043f\u0432\u0430"}, "widget_data": {"surname_input": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name_input": "\u0432\u0430\u044b\u0440\u0430\u043f\u0432", "patronymic_input": "\u044b\u0440\u0432\u043f\u0432\u0430"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*2
+$6
+SELECT
+$1
+0
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:b8brG2:data
+$568
+{"_intent_id": "b8brG2", "_stack_id": "", "state": "RegistrationDialogStates:confirm_data", "start_data": null, "dialog_data": {"surname": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name": "\u0432\u0430\u044b\u0440\u0430\u043f\u0432", "patronymic": "\u044b\u0440\u0432\u043f\u0432\u0430"}, "widget_data": {"surname_input": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name_input": "\u0432\u0430\u044b\u0440\u0430\u043f\u0432", "patronymic_input": "\u044b\u0440\u0432\u043f\u0432\u0430"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:b8brG2:data
+$568
+{"_intent_id": "b8brG2", "_stack_id": "", "state": "RegistrationDialogStates:confirm_data", "start_data": null, "dialog_data": {"surname": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name": "\u0432\u0430\u044b\u0440\u0430\u043f\u0432", "patronymic": "\u044b\u0440\u0432\u043f\u0432\u0430"}, "widget_data": {"surname_input": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name_input": "\u0432\u0430\u044b\u0440\u0430\u043f\u0432", "patronymic_input": "\u044b\u0440\u0432\u043f\u0432\u0430"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$50
+fsm:1166829801:1166829801:aiogd:context:sNK9W:data
+$204
+{"_intent_id": "sNK9W", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$658
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W"], "last_message_id": 230, "last_reply_keyboard": false, "last_media_id": "AgACAgIAAxkDAAPbaN2KrmNvZxhg3dZ08QOdT3BpBJMAAo78MRsZXshKYAtPuUbhJdMBAAMCAAN5AAM2BA", "last_media_unique_id": "AQADjvwxGxleyEp-", "last_income_media_group_id": null}
+*3
+$3
+SET
+$50
+fsm:1166829801:1166829801:aiogd:context:sNK9W:data
+$204
+{"_intent_id": "sNK9W", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:e0vlF3:data
+$208
+{"_intent_id": "e0vlF3", "_stack_id": "", "state": "RegistrationDialogStates:reg_info", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$574
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3"], "last_message_id": 231, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:e0vlF3:data
+$203
+{"_intent_id": "e0vlF3", "_stack_id": "", "state": "RegistrationDialogStates:fio", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$574
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3"], "last_message_id": 231, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:e0vlF3:data
+$207
+{"_intent_id": "e0vlF3", "_stack_id": "", "state": "RegistrationDialogStates:surname", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$574
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3"], "last_message_id": 231, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:e0vlF3:data
+$254
+{"_intent_id": "e0vlF3", "_stack_id": "", "state": "RegistrationDialogStates:name", "start_data": null, "dialog_data": {"surname": "hdafghdah"}, "widget_data": {"surname_input": "hdafghdah"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$574
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3"], "last_message_id": 234, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:e0vlF3:data
+$314
+{"_intent_id": "e0vlF3", "_stack_id": "", "state": "RegistrationDialogStates:patronymic", "start_data": null, "dialog_data": {"surname": "hdafghdah", "name": "fhdagfdaghfa"}, "widget_data": {"surname_input": "hdafghdah", "name_input": "fhdagfdaghfa"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$574
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3"], "last_message_id": 237, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:e0vlF3:data
+$374
+{"_intent_id": "e0vlF3", "_stack_id": "", "state": "RegistrationDialogStates:confirm_data", "start_data": null, "dialog_data": {"surname": "hdafghdah", "name": "fhdagfdaghfa", "patronymic": "hfdagfah"}, "widget_data": {"surname_input": "hdafghdah", "name_input": "fhdagfdaghfa", "patronymic_input": "hfdagfah"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$574
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3"], "last_message_id": 240, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:e0vlF3:data
+$374
+{"_intent_id": "e0vlF3", "_stack_id": "", "state": "RegistrationDialogStates:confirm_data", "start_data": null, "dialog_data": {"surname": "hdafghdah", "name": "fhdagfdaghfa", "patronymic": "hfdagfah"}, "widget_data": {"surname_input": "hdafghdah", "name_input": "fhdagfdaghfa", "patronymic_input": "hfdagfah"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$574
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3"], "last_message_id": 242, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:e0vlF3:data
+$374
+{"_intent_id": "e0vlF3", "_stack_id": "", "state": "RegistrationDialogStates:confirm_data", "start_data": null, "dialog_data": {"surname": "hdafghdah", "name": "fhdagfdaghfa", "patronymic": "hfdagfah"}, "widget_data": {"surname_input": "hdafghdah", "name_input": "fhdagfdaghfa", "patronymic_input": "hfdagfah"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:31vlF3:data
+$205
+{"_intent_id": "31vlF3", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$678
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3"], "last_message_id": 243, "last_reply_keyboard": false, "last_media_id": "AgACAgIAAxkDAAPbaN2KrmNvZxhg3dZ08QOdT3BpBJMAAo78MRsZXshKYAtPuUbhJdMBAAMCAAN5AAM2BA", "last_media_unique_id": "AQADjvwxGxleyEp-", "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:31vlF3:data
+$205
+{"_intent_id": "31vlF3", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:S8nYT2:data
+$208
+{"_intent_id": "S8nYT2", "_stack_id": "", "state": "RegistrationDialogStates:reg_info", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$594
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2"], "last_message_id": 244, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:S8nYT2:data
+$203
+{"_intent_id": "S8nYT2", "_stack_id": "", "state": "RegistrationDialogStates:fio", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$594
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2"], "last_message_id": 244, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:S8nYT2:data
+$203
+{"_intent_id": "S8nYT2", "_stack_id": "", "state": "RegistrationDialogStates:fio", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:S8nYT2:data
+$203
+{"_intent_id": "S8nYT2", "_stack_id": "", "state": "RegistrationDialogStates:fio", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:S8nYT2:data
+$203
+{"_intent_id": "S8nYT2", "_stack_id": "", "state": "RegistrationDialogStates:fio", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:a4TsX5:data
+$205
+{"_intent_id": "a4TsX5", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$698
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5"], "last_message_id": 245, "last_reply_keyboard": false, "last_media_id": "AgACAgIAAxkDAAPbaN2KrmNvZxhg3dZ08QOdT3BpBJMAAo78MRsZXshKYAtPuUbhJdMBAAMCAAN5AAM2BA", "last_media_unique_id": "AQADjvwxGxleyEp-", "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:a4TsX5:data
+$205
+{"_intent_id": "a4TsX5", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:XZgAf8:data
+$205
+{"_intent_id": "XZgAf8", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$708
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8"], "last_message_id": 245, "last_reply_keyboard": false, "last_media_id": "AgACAgIAAxkDAAPbaN2KrmNvZxhg3dZ08QOdT3BpBJMAAo78MRsZXshKYAtPuUbhJdMBAAMCAAN5AAM2BA", "last_media_unique_id": "AQADjvwxGxleyEp-", "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:XZgAf8:data
+$205
+{"_intent_id": "XZgAf8", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:bQgEZ3:data
+$208
+{"_intent_id": "bQgEZ3", "_stack_id": "", "state": "RegistrationDialogStates:reg_info", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$624
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3"], "last_message_id": 246, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:bQgEZ3:data
+$203
+{"_intent_id": "bQgEZ3", "_stack_id": "", "state": "RegistrationDialogStates:fio", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$624
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3"], "last_message_id": 246, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:bQgEZ3:data
+$207
+{"_intent_id": "bQgEZ3", "_stack_id": "", "state": "RegistrationDialogStates:surname", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$624
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3"], "last_message_id": 246, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:bQgEZ3:data
+$320
+{"_intent_id": "bQgEZ3", "_stack_id": "", "state": "RegistrationDialogStates:name", "start_data": null, "dialog_data": {"surname": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439"}, "widget_data": {"surname_input": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$624
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3"], "last_message_id": 249, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:bQgEZ3:data
+$440
+{"_intent_id": "bQgEZ3", "_stack_id": "", "state": "RegistrationDialogStates:patronymic", "start_data": null, "dialog_data": {"surname": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439", "name": "\u043f\u0430\u0432\u0444\u043f\u0432\u0444"}, "widget_data": {"surname_input": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439", "name_input": "\u043f\u0430\u0432\u0444\u043f\u0432\u0444"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$624
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3"], "last_message_id": 252, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:bQgEZ3:data
+$568
+{"_intent_id": "bQgEZ3", "_stack_id": "", "state": "RegistrationDialogStates:confirm_data", "start_data": null, "dialog_data": {"surname": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439", "name": "\u043f\u0430\u0432\u0444\u043f\u0432\u0444", "patronymic": "\u0430\u0444\u0432\u0440\u0444\u0430\u043f"}, "widget_data": {"surname_input": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439", "name_input": "\u043f\u0430\u0432\u0444\u043f\u0432\u0444", "patronymic_input": "\u0430\u0444\u0432\u0440\u0444\u0430\u043f"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$624
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3"], "last_message_id": 255, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:bQgEZ3:data
+$568
+{"_intent_id": "bQgEZ3", "_stack_id": "", "state": "RegistrationDialogStates:confirm_data", "start_data": null, "dialog_data": {"surname": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439", "name": "\u043f\u0430\u0432\u0444\u043f\u0432\u0444", "patronymic": "\u0430\u0444\u0432\u0440\u0444\u0430\u043f"}, "widget_data": {"surname_input": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439", "name_input": "\u043f\u0430\u0432\u0444\u043f\u0432\u0444", "patronymic_input": "\u0430\u0444\u0432\u0440\u0444\u0430\u043f"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:2akKH7:data
+$205
+{"_intent_id": "2akKH7", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$728
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7"], "last_message_id": 256, "last_reply_keyboard": false, "last_media_id": "AgACAgIAAxkDAAPbaN2KrmNvZxhg3dZ08QOdT3BpBJMAAo78MRsZXshKYAtPuUbhJdMBAAMCAAN5AAM2BA", "last_media_unique_id": "AQADjvwxGxleyEp-", "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:2akKH7:data
+$205
+{"_intent_id": "2akKH7", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:BpRp64:data
+$208
+{"_intent_id": "BpRp64", "_stack_id": "", "state": "RegistrationDialogStates:reg_info", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$644
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "BpRp64"], "last_message_id": 257, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:BpRp64:data
+$203
+{"_intent_id": "BpRp64", "_stack_id": "", "state": "RegistrationDialogStates:fio", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$644
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "BpRp64"], "last_message_id": 257, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:BpRp64:data
+$207
+{"_intent_id": "BpRp64", "_stack_id": "", "state": "RegistrationDialogStates:surname", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$644
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "BpRp64"], "last_message_id": 257, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:BpRp64:data
+$332
+{"_intent_id": "BpRp64", "_stack_id": "", "state": "RegistrationDialogStates:name", "start_data": null, "dialog_data": {"surname": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432"}, "widget_data": {"surname_input": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$644
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "BpRp64"], "last_message_id": 260, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:BpRp64:data
+$452
+{"_intent_id": "BpRp64", "_stack_id": "", "state": "RegistrationDialogStates:patronymic", "start_data": null, "dialog_data": {"surname": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439"}, "widget_data": {"surname_input": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name_input": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$644
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "BpRp64"], "last_message_id": 263, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:BpRp64:data
+$616
+{"_intent_id": "BpRp64", "_stack_id": "", "state": "RegistrationDialogStates:confirm_data", "start_data": null, "dialog_data": {"surname": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439", "patronymic": "\u0415\u0432\u0433\u0435\u043d\u044c\u0435\u0432\u0438\u0447"}, "widget_data": {"surname_input": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name_input": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439", "patronymic_input": "\u0415\u0432\u0433\u0435\u043d\u044c\u0435\u0432\u0438\u0447"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$644
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "BpRp64"], "last_message_id": 266, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*2
+$3
+DEL
+$51
+fsm:1166829801:1166829801:aiogd:context:BpRp64:data
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$634
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7"], "last_message_id": 266, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:2akKH7:data
+$205
+{"_intent_id": "2akKH7", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:cWEHxa:data
+$205
+{"_intent_id": "cWEHxa", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$738
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa"], "last_message_id": 269, "last_reply_keyboard": false, "last_media_id": "AgACAgIAAxkDAAPbaN2KrmNvZxhg3dZ08QOdT3BpBJMAAo78MRsZXshKYAtPuUbhJdMBAAMCAAN5AAM2BA", "last_media_unique_id": "AQADjvwxGxleyEp-", "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:cWEHxa:data
+$205
+{"_intent_id": "cWEHxa", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:ZGagl9:data
+$205
+{"_intent_id": "ZGagl9", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$748
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9"], "last_message_id": 269, "last_reply_keyboard": false, "last_media_id": "AgACAgIAAxkDAAPbaN2KrmNvZxhg3dZ08QOdT3BpBJMAAo78MRsZXshKYAtPuUbhJdMBAAMCAAN5AAM2BA", "last_media_unique_id": "AQADjvwxGxleyEp-", "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:ZGagl9:data
+$205
+{"_intent_id": "ZGagl9", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:wPo1L4:data
+$208
+{"_intent_id": "wPo1L4", "_stack_id": "", "state": "RegistrationDialogStates:reg_info", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$664
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "wPo1L4"], "last_message_id": 270, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:wPo1L4:data
+$203
+{"_intent_id": "wPo1L4", "_stack_id": "", "state": "RegistrationDialogStates:fio", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$664
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "wPo1L4"], "last_message_id": 270, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:wPo1L4:data
+$207
+{"_intent_id": "wPo1L4", "_stack_id": "", "state": "RegistrationDialogStates:surname", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$664
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "wPo1L4"], "last_message_id": 270, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:wPo1L4:data
+$332
+{"_intent_id": "wPo1L4", "_stack_id": "", "state": "RegistrationDialogStates:name", "start_data": null, "dialog_data": {"surname": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432"}, "widget_data": {"surname_input": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$664
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "wPo1L4"], "last_message_id": 273, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:wPo1L4:data
+$452
+{"_intent_id": "wPo1L4", "_stack_id": "", "state": "RegistrationDialogStates:patronymic", "start_data": null, "dialog_data": {"surname": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439"}, "widget_data": {"surname_input": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name_input": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$664
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "wPo1L4"], "last_message_id": 276, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:wPo1L4:data
+$616
+{"_intent_id": "wPo1L4", "_stack_id": "", "state": "RegistrationDialogStates:confirm_data", "start_data": null, "dialog_data": {"surname": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439", "patronymic": "\u0415\u0432\u0433\u0435\u043d\u044c\u0435\u0432\u0438\u0447"}, "widget_data": {"surname_input": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name_input": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439", "patronymic_input": "\u0415\u0432\u0433\u0435\u043d\u044c\u0435\u0432\u0438\u0447"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$664
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "wPo1L4"], "last_message_id": 279, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*2
+$3
+DEL
+$51
+fsm:1166829801:1166829801:aiogd:context:wPo1L4:data
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$654
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9"], "last_message_id": 279, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:ZGagl9:data
+$205
+{"_intent_id": "ZGagl9", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:iYwkM9:data
+$205
+{"_intent_id": "iYwkM9", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$758
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9"], "last_message_id": 282, "last_reply_keyboard": false, "last_media_id": "AgACAgIAAxkDAAPbaN2KrmNvZxhg3dZ08QOdT3BpBJMAAo78MRsZXshKYAtPuUbhJdMBAAMCAAN5AAM2BA", "last_media_unique_id": "AQADjvwxGxleyEp-", "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:iYwkM9:data
+$205
+{"_intent_id": "iYwkM9", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:BEq0Sa:data
+$205
+{"_intent_id": "BEq0Sa", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$768
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa"], "last_message_id": 282, "last_reply_keyboard": false, "last_media_id": "AgACAgIAAxkDAAPbaN2KrmNvZxhg3dZ08QOdT3BpBJMAAo78MRsZXshKYAtPuUbhJdMBAAMCAAN5AAM2BA", "last_media_unique_id": "AQADjvwxGxleyEp-", "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:BEq0Sa:data
+$205
+{"_intent_id": "BEq0Sa", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$50
+fsm:1166829801:1166829801:aiogd:context:sZK9W:data
+$207
+{"_intent_id": "sZK9W", "_stack_id": "", "state": "RegistrationDialogStates:reg_info", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$683
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "sZK9W"], "last_message_id": 283, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$50
+fsm:1166829801:1166829801:aiogd:context:sZK9W:data
+$202
+{"_intent_id": "sZK9W", "_stack_id": "", "state": "RegistrationDialogStates:fio", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$683
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "sZK9W"], "last_message_id": 283, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$50
+fsm:1166829801:1166829801:aiogd:context:sZK9W:data
+$206
+{"_intent_id": "sZK9W", "_stack_id": "", "state": "RegistrationDialogStates:surname", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$683
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "sZK9W"], "last_message_id": 283, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$50
+fsm:1166829801:1166829801:aiogd:context:sZK9W:data
+$331
+{"_intent_id": "sZK9W", "_stack_id": "", "state": "RegistrationDialogStates:name", "start_data": null, "dialog_data": {"surname": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432"}, "widget_data": {"surname_input": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$683
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "sZK9W"], "last_message_id": 286, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$50
+fsm:1166829801:1166829801:aiogd:context:sZK9W:data
+$451
+{"_intent_id": "sZK9W", "_stack_id": "", "state": "RegistrationDialogStates:patronymic", "start_data": null, "dialog_data": {"surname": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439"}, "widget_data": {"surname_input": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name_input": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$683
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "sZK9W"], "last_message_id": 289, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$50
+fsm:1166829801:1166829801:aiogd:context:sZK9W:data
+$615
+{"_intent_id": "sZK9W", "_stack_id": "", "state": "RegistrationDialogStates:confirm_data", "start_data": null, "dialog_data": {"surname": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439", "patronymic": "\u0415\u0432\u0433\u0435\u043d\u044c\u0435\u0432\u0438\u0447"}, "widget_data": {"surname_input": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name_input": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439", "patronymic_input": "\u0415\u0432\u0433\u0435\u043d\u044c\u0435\u0432\u0438\u0447"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$683
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "sZK9W"], "last_message_id": 292, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*2
+$3
+DEL
+$50
+fsm:1166829801:1166829801:aiogd:context:sZK9W:data
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$674
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa"], "last_message_id": 292, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:BEq0Sa:data
+$205
+{"_intent_id": "BEq0Sa", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:N644V1:data
+$205
+{"_intent_id": "N644V1", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$778
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1"], "last_message_id": 295, "last_reply_keyboard": false, "last_media_id": "AgACAgIAAxkDAAPbaN2KrmNvZxhg3dZ08QOdT3BpBJMAAo78MRsZXshKYAtPuUbhJdMBAAMCAAN5AAM2BA", "last_media_unique_id": "AQADjvwxGxleyEp-", "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:N644V1:data
+$205
+{"_intent_id": "N644V1", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:l59du7:data
+$203
+{"_intent_id": "l59du7", "_stack_id": "", "state": "RegistrationDialogStates:fio", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$694
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7"], "last_message_id": 296, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:l59du7:data
+$207
+{"_intent_id": "l59du7", "_stack_id": "", "state": "RegistrationDialogStates:surname", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$694
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7"], "last_message_id": 296, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:l59du7:data
+$332
+{"_intent_id": "l59du7", "_stack_id": "", "state": "RegistrationDialogStates:name", "start_data": null, "dialog_data": {"surname": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432"}, "widget_data": {"surname_input": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$694
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7"], "last_message_id": 299, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:l59du7:data
+$452
+{"_intent_id": "l59du7", "_stack_id": "", "state": "RegistrationDialogStates:patronymic", "start_data": null, "dialog_data": {"surname": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439"}, "widget_data": {"surname_input": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name_input": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$694
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7"], "last_message_id": 302, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:l59du7:data
+$616
+{"_intent_id": "l59du7", "_stack_id": "", "state": "RegistrationDialogStates:confirm_data", "start_data": null, "dialog_data": {"surname": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439", "patronymic": "\u0415\u0432\u0433\u0435\u043d\u044c\u0435\u0432\u0438\u0447"}, "widget_data": {"surname_input": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name_input": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439", "patronymic_input": "\u0415\u0432\u0433\u0435\u043d\u044c\u0435\u0432\u0438\u0447"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$694
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7"], "last_message_id": 305, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:l59du7:data
+$616
+{"_intent_id": "l59du7", "_stack_id": "", "state": "RegistrationDialogStates:confirm_data", "start_data": null, "dialog_data": {"surname": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439", "patronymic": "\u0415\u0432\u0433\u0435\u043d\u044c\u0435\u0432\u0438\u0447"}, "widget_data": {"surname_input": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name_input": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439", "patronymic_input": "\u0415\u0432\u0433\u0435\u043d\u044c\u0435\u0432\u0438\u0447"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:IRwow5:data
+$205
+{"_intent_id": "IRwow5", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$798
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5"], "last_message_id": 306, "last_reply_keyboard": false, "last_media_id": "AgACAgIAAxkDAAPbaN2KrmNvZxhg3dZ08QOdT3BpBJMAAo78MRsZXshKYAtPuUbhJdMBAAMCAAN5AAM2BA", "last_media_unique_id": "AQADjvwxGxleyEp-", "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:IRwow5:data
+$205
+{"_intent_id": "IRwow5", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$50
+fsm:1166829801:1166829801:aiogd:context:ccACI:data
+$204
+{"_intent_id": "ccACI", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$807
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI"], "last_message_id": 306, "last_reply_keyboard": false, "last_media_id": "AgACAgIAAxkDAAPbaN2KrmNvZxhg3dZ08QOdT3BpBJMAAo78MRsZXshKYAtPuUbhJdMBAAMCAAN5AAM2BA", "last_media_unique_id": "AQADjvwxGxleyEp-", "last_income_media_group_id": null}
+*3
+$3
+SET
+$50
+fsm:1166829801:1166829801:aiogd:context:ccACI:data
+$204
+{"_intent_id": "ccACI", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:2KiLA1:data
+$208
+{"_intent_id": "2KiLA1", "_stack_id": "", "state": "RegistrationDialogStates:reg_info", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$723
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "2KiLA1"], "last_message_id": 307, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:2KiLA1:data
+$203
+{"_intent_id": "2KiLA1", "_stack_id": "", "state": "RegistrationDialogStates:fio", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$723
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "2KiLA1"], "last_message_id": 307, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:2KiLA1:data
+$207
+{"_intent_id": "2KiLA1", "_stack_id": "", "state": "RegistrationDialogStates:surname", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$723
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "2KiLA1"], "last_message_id": 307, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:2KiLA1:data
+$332
+{"_intent_id": "2KiLA1", "_stack_id": "", "state": "RegistrationDialogStates:name", "start_data": null, "dialog_data": {"surname": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432"}, "widget_data": {"surname_input": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$723
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "2KiLA1"], "last_message_id": 310, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:2KiLA1:data
+$452
+{"_intent_id": "2KiLA1", "_stack_id": "", "state": "RegistrationDialogStates:patronymic", "start_data": null, "dialog_data": {"surname": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439"}, "widget_data": {"surname_input": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name_input": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$723
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "2KiLA1"], "last_message_id": 313, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:2KiLA1:data
+$616
+{"_intent_id": "2KiLA1", "_stack_id": "", "state": "RegistrationDialogStates:confirm_data", "start_data": null, "dialog_data": {"surname": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439", "patronymic": "\u0415\u0432\u0433\u0435\u043d\u044c\u0435\u0432\u0438\u0447"}, "widget_data": {"surname_input": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name_input": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439", "patronymic_input": "\u0415\u0432\u0433\u0435\u043d\u044c\u0435\u0432\u0438\u0447"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$723
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "2KiLA1"], "last_message_id": 316, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*2
+$3
+DEL
+$51
+fsm:1166829801:1166829801:aiogd:context:2KiLA1:data
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$713
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI"], "last_message_id": 316, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$50
+fsm:1166829801:1166829801:aiogd:context:ccACI:data
+$204
+{"_intent_id": "ccACI", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:hfhEZ3:data
+$205
+{"_intent_id": "hfhEZ3", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$817
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "hfhEZ3"], "last_message_id": 319, "last_reply_keyboard": false, "last_media_id": "AgACAgIAAxkDAAPbaN2KrmNvZxhg3dZ08QOdT3BpBJMAAo78MRsZXshKYAtPuUbhJdMBAAMCAAN5AAM2BA", "last_media_unique_id": "AQADjvwxGxleyEp-", "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:hfhEZ3:data
+$205
+{"_intent_id": "hfhEZ3", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:nRBFz2:data
+$203
+{"_intent_id": "nRBFz2", "_stack_id": "", "state": "RegistrationDialogStates:fio", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$733
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "hfhEZ3", "nRBFz2"], "last_message_id": 320, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:nRBFz2:data
+$207
+{"_intent_id": "nRBFz2", "_stack_id": "", "state": "RegistrationDialogStates:surname", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$733
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "hfhEZ3", "nRBFz2"], "last_message_id": 320, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:nRBFz2:data
+$332
+{"_intent_id": "nRBFz2", "_stack_id": "", "state": "RegistrationDialogStates:name", "start_data": null, "dialog_data": {"surname": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432"}, "widget_data": {"surname_input": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$733
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "hfhEZ3", "nRBFz2"], "last_message_id": 323, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:nRBFz2:data
+$452
+{"_intent_id": "nRBFz2", "_stack_id": "", "state": "RegistrationDialogStates:patronymic", "start_data": null, "dialog_data": {"surname": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439"}, "widget_data": {"surname_input": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name_input": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$733
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "hfhEZ3", "nRBFz2"], "last_message_id": 326, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:nRBFz2:data
+$616
+{"_intent_id": "nRBFz2", "_stack_id": "", "state": "RegistrationDialogStates:confirm_data", "start_data": null, "dialog_data": {"surname": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439", "patronymic": "\u0415\u0432\u0433\u0435\u043d\u044c\u0435\u0432\u0438\u0447"}, "widget_data": {"surname_input": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name_input": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439", "patronymic_input": "\u0415\u0432\u0433\u0435\u043d\u044c\u0435\u0432\u0438\u0447"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$733
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "hfhEZ3", "nRBFz2"], "last_message_id": 329, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:nRBFz2:data
+$616
+{"_intent_id": "nRBFz2", "_stack_id": "", "state": "RegistrationDialogStates:confirm_data", "start_data": null, "dialog_data": {"surname": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439", "patronymic": "\u0415\u0432\u0433\u0435\u043d\u044c\u0435\u0432\u0438\u0447"}, "widget_data": {"surname_input": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name_input": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439", "patronymic_input": "\u0415\u0432\u0433\u0435\u043d\u044c\u0435\u0432\u0438\u0447"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:HFWCp5:data
+$205
+{"_intent_id": "HFWCp5", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$837
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "hfhEZ3", "nRBFz2", "HFWCp5"], "last_message_id": 330, "last_reply_keyboard": false, "last_media_id": "AgACAgIAAxkDAAPbaN2KrmNvZxhg3dZ08QOdT3BpBJMAAo78MRsZXshKYAtPuUbhJdMBAAMCAAN5AAM2BA", "last_media_unique_id": "AQADjvwxGxleyEp-", "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:HFWCp5:data
+$205
+{"_intent_id": "HFWCp5", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:YpxkM9:data
+$203
+{"_intent_id": "YpxkM9", "_stack_id": "", "state": "UpdateUserdataStates:surname", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$753
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "hfhEZ3", "nRBFz2", "HFWCp5", "YpxkM9"], "last_message_id": 331, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:YpxkM9:data
+$251
+{"_intent_id": "YpxkM9", "_stack_id": "", "state": "UpdateUserdataStates:name", "start_data": null, "dialog_data": {"surname": "/start"}, "widget_data": {"update_surname_input": "/start"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$753
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "hfhEZ3", "nRBFz2", "HFWCp5", "YpxkM9"], "last_message_id": 344, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:YpxkM9:data
+$308
+{"_intent_id": "YpxkM9", "_stack_id": "", "state": "UpdateUserdataStates:patronymic", "start_data": null, "dialog_data": {"surname": "/start", "name": "gfdgfda"}, "widget_data": {"update_surname_input": "/start", "update_name_input": "gfdgfda"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$753
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "hfhEZ3", "nRBFz2", "HFWCp5", "YpxkM9"], "last_message_id": 347, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:YpxkM9:data
+$369
+{"_intent_id": "YpxkM9", "_stack_id": "", "state": "UpdateUserdataStates:patronymic", "start_data": null, "dialog_data": {"surname": "/start", "name": "gfdgfda", "patronymic": "/start"}, "widget_data": {"update_surname_input": "/start", "update_name_input": "gfdgfda", "update_patronymic_input": "/start"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:YohEZ3:data
+$205
+{"_intent_id": "YohEZ3", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$857
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "hfhEZ3", "nRBFz2", "HFWCp5", "YpxkM9", "YohEZ3"], "last_message_id": 352, "last_reply_keyboard": false, "last_media_id": "AgACAgIAAxkDAAPbaN2KrmNvZxhg3dZ08QOdT3BpBJMAAo78MRsZXshKYAtPuUbhJdMBAAMCAAN5AAM2BA", "last_media_unique_id": "AQADjvwxGxleyEp-", "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:YohEZ3:data
+$205
+{"_intent_id": "YohEZ3", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:XoeqN8:data
+$208
+{"_intent_id": "XoeqN8", "_stack_id": "", "state": "RegistrationDialogStates:reg_info", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$773
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "hfhEZ3", "nRBFz2", "HFWCp5", "YpxkM9", "YohEZ3", "XoeqN8"], "last_message_id": 353, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:XoeqN8:data
+$203
+{"_intent_id": "XoeqN8", "_stack_id": "", "state": "RegistrationDialogStates:fio", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$773
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "hfhEZ3", "nRBFz2", "HFWCp5", "YpxkM9", "YohEZ3", "XoeqN8"], "last_message_id": 353, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:XoeqN8:data
+$207
+{"_intent_id": "XoeqN8", "_stack_id": "", "state": "RegistrationDialogStates:surname", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$773
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "hfhEZ3", "nRBFz2", "HFWCp5", "YpxkM9", "YohEZ3", "XoeqN8"], "last_message_id": 353, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:XoeqN8:data
+$320
+{"_intent_id": "XoeqN8", "_stack_id": "", "state": "RegistrationDialogStates:name", "start_data": null, "dialog_data": {"surname": "\u041c\u0430\u0439\u043e\u043b\u043e\u0432"}, "widget_data": {"surname_input": "\u041c\u0430\u0439\u043e\u043b\u043e\u0432"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$773
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "hfhEZ3", "nRBFz2", "HFWCp5", "YpxkM9", "YohEZ3", "XoeqN8"], "last_message_id": 356, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:XoeqN8:data
+$440
+{"_intent_id": "XoeqN8", "_stack_id": "", "state": "RegistrationDialogStates:patronymic", "start_data": null, "dialog_data": {"surname": "\u041c\u0430\u0439\u043e\u043b\u043e\u0432", "name": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439"}, "widget_data": {"surname_input": "\u041c\u0430\u0439\u043e\u043b\u043e\u0432", "name_input": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$773
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "hfhEZ3", "nRBFz2", "HFWCp5", "YpxkM9", "YohEZ3", "XoeqN8"], "last_message_id": 359, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:XoeqN8:data
+$604
+{"_intent_id": "XoeqN8", "_stack_id": "", "state": "RegistrationDialogStates:confirm_data", "start_data": null, "dialog_data": {"surname": "\u041c\u0430\u0439\u043e\u043b\u043e\u0432", "name": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439", "patronymic": "\u0415\u0432\u0433\u0435\u043d\u044c\u0435\u0432\u0438\u0447"}, "widget_data": {"surname_input": "\u041c\u0430\u0439\u043e\u043b\u043e\u0432", "name_input": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439", "patronymic_input": "\u0415\u0432\u0433\u0435\u043d\u044c\u0435\u0432\u0438\u0447"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$773
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "hfhEZ3", "nRBFz2", "HFWCp5", "YpxkM9", "YohEZ3", "XoeqN8"], "last_message_id": 362, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*2
+$3
+DEL
+$51
+fsm:1166829801:1166829801:aiogd:context:XoeqN8:data
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$763
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "hfhEZ3", "nRBFz2", "HFWCp5", "YpxkM9", "YohEZ3"], "last_message_id": 362, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:YohEZ3:data
+$205
+{"_intent_id": "YohEZ3", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:bNWCp5:data
+$205
+{"_intent_id": "bNWCp5", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$867
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "hfhEZ3", "nRBFz2", "HFWCp5", "YpxkM9", "YohEZ3", "bNWCp5"], "last_message_id": 365, "last_reply_keyboard": false, "last_media_id": "AgACAgIAAxkDAAPbaN2KrmNvZxhg3dZ08QOdT3BpBJMAAo78MRsZXshKYAtPuUbhJdMBAAMCAAN5AAM2BA", "last_media_unique_id": "AQADjvwxGxleyEp-", "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:bNWCp5:data
+$205
+{"_intent_id": "bNWCp5", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:X63Xj4:data
+$203
+{"_intent_id": "X63Xj4", "_stack_id": "", "state": "UpdateUserdataStates:surname", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$783
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "hfhEZ3", "nRBFz2", "HFWCp5", "YpxkM9", "YohEZ3", "bNWCp5", "X63Xj4"], "last_message_id": 366, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:X63Xj4:data
+$335
+{"_intent_id": "X63Xj4", "_stack_id": "", "state": "UpdateUserdataStates:name", "start_data": null, "dialog_data": {"surname": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432"}, "widget_data": {"update_surname_input": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$783
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "hfhEZ3", "nRBFz2", "HFWCp5", "YpxkM9", "YohEZ3", "bNWCp5", "X63Xj4"], "last_message_id": 369, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:X63Xj4:data
+$462
+{"_intent_id": "X63Xj4", "_stack_id": "", "state": "UpdateUserdataStates:patronymic", "start_data": null, "dialog_data": {"surname": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439"}, "widget_data": {"update_surname_input": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "update_name_input": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$783
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "hfhEZ3", "nRBFz2", "HFWCp5", "YpxkM9", "YohEZ3", "bNWCp5", "X63Xj4"], "last_message_id": 372, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:X63Xj4:data
+$631
+{"_intent_id": "X63Xj4", "_stack_id": "", "state": "UpdateUserdataStates:patronymic", "start_data": null, "dialog_data": {"surname": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439", "patronymic": "\u0415\u0432\u0433\u0435\u043d\u044c\u0435\u0432\u0438\u0447"}, "widget_data": {"update_surname_input": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "update_name_input": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439", "update_patronymic_input": "\u0415\u0432\u0433\u0435\u043d\u044c\u0435\u0432\u0438\u0447"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:4ejD6a:data
+$205
+{"_intent_id": "4ejD6a", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$887
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "hfhEZ3", "nRBFz2", "HFWCp5", "YpxkM9", "YohEZ3", "bNWCp5", "X63Xj4", "4ejD6a"], "last_message_id": 375, "last_reply_keyboard": false, "last_media_id": "AgACAgIAAxkDAAPbaN2KrmNvZxhg3dZ08QOdT3BpBJMAAo78MRsZXshKYAtPuUbhJdMBAAMCAAN5AAM2BA", "last_media_unique_id": "AQADjvwxGxleyEp-", "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:4ejD6a:data
+$205
+{"_intent_id": "4ejD6a", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$50
+fsm:1166829801:1166829801:aiogd:context:jwL9W:data
+$204
+{"_intent_id": "jwL9W", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$896
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "hfhEZ3", "nRBFz2", "HFWCp5", "YpxkM9", "YohEZ3", "bNWCp5", "X63Xj4", "4ejD6a", "jwL9W"], "last_message_id": 375, "last_reply_keyboard": false, "last_media_id": "AgACAgIAAxkDAAPbaN2KrmNvZxhg3dZ08QOdT3BpBJMAAo78MRsZXshKYAtPuUbhJdMBAAMCAAN5AAM2BA", "last_media_unique_id": "AQADjvwxGxleyEp-", "last_income_media_group_id": null}
+*3
+$3
+SET
+$50
+fsm:1166829801:1166829801:aiogd:context:jwL9W:data
+$204
+{"_intent_id": "jwL9W", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:Igbgl9:data
+$208
+{"_intent_id": "Igbgl9", "_stack_id": "", "state": "RegistrationDialogStates:reg_info", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$812
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "hfhEZ3", "nRBFz2", "HFWCp5", "YpxkM9", "YohEZ3", "bNWCp5", "X63Xj4", "4ejD6a", "jwL9W", "Igbgl9"], "last_message_id": 376, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:Igbgl9:data
+$203
+{"_intent_id": "Igbgl9", "_stack_id": "", "state": "RegistrationDialogStates:fio", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$812
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "hfhEZ3", "nRBFz2", "HFWCp5", "YpxkM9", "YohEZ3", "bNWCp5", "X63Xj4", "4ejD6a", "jwL9W", "Igbgl9"], "last_message_id": 376, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:Igbgl9:data
+$207
+{"_intent_id": "Igbgl9", "_stack_id": "", "state": "RegistrationDialogStates:surname", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$812
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "hfhEZ3", "nRBFz2", "HFWCp5", "YpxkM9", "YohEZ3", "bNWCp5", "X63Xj4", "4ejD6a", "jwL9W", "Igbgl9"], "last_message_id": 376, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:Igbgl9:data
+$332
+{"_intent_id": "Igbgl9", "_stack_id": "", "state": "RegistrationDialogStates:name", "start_data": null, "dialog_data": {"surname": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432"}, "widget_data": {"surname_input": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$812
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "hfhEZ3", "nRBFz2", "HFWCp5", "YpxkM9", "YohEZ3", "bNWCp5", "X63Xj4", "4ejD6a", "jwL9W", "Igbgl9"], "last_message_id": 379, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:Igbgl9:data
+$452
+{"_intent_id": "Igbgl9", "_stack_id": "", "state": "RegistrationDialogStates:patronymic", "start_data": null, "dialog_data": {"surname": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439"}, "widget_data": {"surname_input": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name_input": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$812
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "hfhEZ3", "nRBFz2", "HFWCp5", "YpxkM9", "YohEZ3", "bNWCp5", "X63Xj4", "4ejD6a", "jwL9W", "Igbgl9"], "last_message_id": 382, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:Igbgl9:data
+$616
+{"_intent_id": "Igbgl9", "_stack_id": "", "state": "RegistrationDialogStates:confirm_data", "start_data": null, "dialog_data": {"surname": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439", "patronymic": "\u0415\u0432\u0433\u0435\u043d\u044c\u0435\u0432\u0438\u0447"}, "widget_data": {"surname_input": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name_input": "\u0412\u0430\u043b\u0435\u0440\u0438\u0439", "patronymic_input": "\u0415\u0432\u0433\u0435\u043d\u044c\u0435\u0432\u0438\u0447"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$812
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "hfhEZ3", "nRBFz2", "HFWCp5", "YpxkM9", "YohEZ3", "bNWCp5", "X63Xj4", "4ejD6a", "jwL9W", "Igbgl9"], "last_message_id": 385, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*2
+$3
+DEL
+$51
+fsm:1166829801:1166829801:aiogd:context:Igbgl9:data
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$802
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "hfhEZ3", "nRBFz2", "HFWCp5", "YpxkM9", "YohEZ3", "bNWCp5", "X63Xj4", "4ejD6a", "jwL9W"], "last_message_id": 385, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$50
+fsm:1166829801:1166829801:aiogd:context:jwL9W:data
+$204
+{"_intent_id": "jwL9W", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:QxxkM9:data
+$205
+{"_intent_id": "QxxkM9", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$906
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "hfhEZ3", "nRBFz2", "HFWCp5", "YpxkM9", "YohEZ3", "bNWCp5", "X63Xj4", "4ejD6a", "jwL9W", "QxxkM9"], "last_message_id": 388, "last_reply_keyboard": false, "last_media_id": "AgACAgIAAxkDAAPbaN2KrmNvZxhg3dZ08QOdT3BpBJMAAo78MRsZXshKYAtPuUbhJdMBAAMCAAN5AAM2BA", "last_media_unique_id": "AQADjvwxGxleyEp-", "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:QxxkM9:data
+$205
+{"_intent_id": "QxxkM9", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:MAkOr3:data
+$203
+{"_intent_id": "MAkOr3", "_stack_id": "", "state": "UpdateUserdataStates:surname", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$822
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "hfhEZ3", "nRBFz2", "HFWCp5", "YpxkM9", "YohEZ3", "bNWCp5", "X63Xj4", "4ejD6a", "jwL9W", "QxxkM9", "MAkOr3"], "last_message_id": 389, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:MAkOr3:data
+$335
+{"_intent_id": "MAkOr3", "_stack_id": "", "state": "UpdateUserdataStates:name", "start_data": null, "dialog_data": {"surname": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432"}, "widget_data": {"update_surname_input": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$822
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "hfhEZ3", "nRBFz2", "HFWCp5", "YpxkM9", "YohEZ3", "bNWCp5", "X63Xj4", "4ejD6a", "jwL9W", "QxxkM9", "MAkOr3"], "last_message_id": 392, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:MAkOr3:data
+$450
+{"_intent_id": "MAkOr3", "_stack_id": "", "state": "UpdateUserdataStates:patronymic", "start_data": null, "dialog_data": {"surname": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name": "\u041a\u0430\u0439\u0440\u0430\u0442"}, "widget_data": {"update_surname_input": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "update_name_input": "\u041a\u0430\u0439\u0440\u0430\u0442"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$822
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "hfhEZ3", "nRBFz2", "HFWCp5", "YpxkM9", "YohEZ3", "bNWCp5", "X63Xj4", "4ejD6a", "jwL9W", "QxxkM9", "MAkOr3"], "last_message_id": 395, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:MAkOr3:data
+$621
+{"_intent_id": "MAkOr3", "_stack_id": "", "state": "UpdateUserdataStates:patronymic", "start_data": null, "dialog_data": {"surname": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "name": "\u041a\u0430\u0439\u0440\u0430\u0442", "patronymic": "\u0420\u0435\u0430\u043b \u041c\u0430\u0434\u0440\u0438\u0434"}, "widget_data": {"update_surname_input": "\u041c\u0430\u043d\u043e\u0439\u043b\u043e\u0432", "update_name_input": "\u041a\u0430\u0439\u0440\u0430\u0442", "update_patronymic_input": "\u0420\u0435\u0430\u043b \u041c\u0430\u0434\u0440\u0438\u0434"}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:vGIRZ9:data
+$205
+{"_intent_id": "vGIRZ9", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$926
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "hfhEZ3", "nRBFz2", "HFWCp5", "YpxkM9", "YohEZ3", "bNWCp5", "X63Xj4", "4ejD6a", "jwL9W", "QxxkM9", "MAkOr3", "vGIRZ9"], "last_message_id": 398, "last_reply_keyboard": false, "last_media_id": "AgACAgIAAxkDAAPbaN2KrmNvZxhg3dZ08QOdT3BpBJMAAo78MRsZXshKYAtPuUbhJdMBAAMCAAN5AAM2BA", "last_media_unique_id": "AQADjvwxGxleyEp-", "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:vGIRZ9:data
+$203
+{"_intent_id": "vGIRZ9", "_stack_id": "", "state": "MainMenuDialogStates:support", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$832
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "hfhEZ3", "nRBFz2", "HFWCp5", "YpxkM9", "YohEZ3", "bNWCp5", "X63Xj4", "4ejD6a", "jwL9W", "QxxkM9", "MAkOr3", "vGIRZ9"], "last_message_id": 399, "last_reply_keyboard": false, "last_media_id": null, "last_media_unique_id": null, "last_income_media_group_id": null}
+*3
+$3
+SET
+$51
+fsm:1166829801:1166829801:aiogd:context:vGIRZ9:data
+$205
+{"_intent_id": "vGIRZ9", "_stack_id": "", "state": "MainMenuDialogStates:main_menu", "start_data": null, "dialog_data": {}, "widget_data": {}, "access_settings": {"user_ids": [1166829801], "custom": null}}
+*3
+$3
+SET
+$43
+fsm:1166829801:1166829801:aiogd:stack::data
+$926
+{"_id": "", "intents": ["UW1DZ3", "rjPYa6", "R37My9", "tcoLa", "df2zf8", "R6Ufe3", "IW0sEa", "eE0A82", "nbZsx4", "xylxY4", "R7Zwh", "m61sEa", "j5fhO1", "0vR128", "QO0A82", "e7fhO1", "DpqKh6", "0PXlW6", "B8vUJ5", "CNzbN2", "0LPVj4", "KlmZt1", "LQkSS3", "KQhEG8", "yWIVqa", "DF6bd4", "VJI3V1", "IdPj55", "LUQmW6", "rT1YT2", "NnM5T9", "aNjHxa", "5gM9D5", "Ubdv73", "AMFTs2", "XKSpN8", "FQmVJ5", "q2EHxa", "b8brG2", "sNK9W", "e0vlF3", "31vlF3", "S8nYT2", "a4TsX5", "XZgAf8", "bQgEZ3", "2akKH7", "cWEHxa", "ZGagl9", "iYwkM9", "BEq0Sa", "N644V1", "l59du7", "IRwow5", "ccACI", "hfhEZ3", "nRBFz2", "HFWCp5", "YpxkM9", "YohEZ3", "bNWCp5", "X63Xj4", "4ejD6a", "jwL9W", "QxxkM9", "MAkOr3", "vGIRZ9"], "last_message_id": 400, "last_reply_keyboard": false, "last_media_id": "AgACAgIAAxkDAAPbaN2KrmNvZxhg3dZ08QOdT3BpBJMAAo78MRsZXshKYAtPuUbhJdMBAAMCAAN5AAM2BA", "last_media_unique_id": "AQADjvwxGxleyEp-", "last_income_media_group_id": null}
