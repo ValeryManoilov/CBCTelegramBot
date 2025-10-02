@@ -5,18 +5,25 @@
             "hello_text": "Добро пожаловать!",
             "registration": "Регистрация",
             "exit": "Выйти",
-            "change": "Изменить данные"
+            "change": "Изменить данные",
+            "support": "Поддержка"
         },
         "support": {
             "title": "Поддержка",
             "tg_contacts": "Тг: @LitosferVM",
-            "vk_contacts": "Вк: https://vk.com/id453120269"
+            "vk_contacts": "Вк: https://vk.com/id453120269",
+            "back": "Назад"
         }
     },
     "registration_dialog": {
         "registr_info": {
             "title": "Информация о регистрации",
             "text": "Вам нужно будет поочереди ввести ваши ФИО в бота",
+            "next": "Далее",
+            "cancel": "Отмена"
+        },
+        "request_info": {
+            "title": "Если хотите ввести ФИО, нажмите 'далее'",
             "next": "Далее",
             "cancel": "Отмена"
         },
@@ -32,7 +39,7 @@
         "confirm": {
             "title": "Подтверждение введенных данных",
             "confirm_and_send": "Подтвердить и отправить",
-            "change": "Изменить",
+            "change": "Изменить данные",
             "cancel": "Отмена"
         }
     },

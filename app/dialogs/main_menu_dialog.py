@@ -16,15 +16,17 @@ from app.dialog_functions import (
 from aiogram.types import CallbackQuery
 from app.BotDbManager import Manager
 
+import json
+
+with open("app/texts.json", 'r', encoding='utf-8') as file:
+    textblock = json.load(file)["main_menu_dialog"]
+
+
 main_menu_router = Router()
 
 db_manager = Manager()
 
 load_dotenv()
-
-redis_url = os.getenv("REDIS_URL", "redis://localhost:6379/0")
-
-redis_db = redis.from_url(redis_url, decode_responses=True)
 
 async def get_main_menu_data(dialog_manager: DialogManager, **kwargs):
 
@@ -35,8 +37,8 @@ async def get_main_menu_data(dialog_manager: DialogManager, **kwargs):
         user_id = event.from_user.id if event.from_user else None
     
     userdata = db_manager.get_user(user_id)
-    photo_id = "AgACAgIAAxkDAANBaNkRfGNh9I0vplwzdhjWzRcdQtEAAo78MRsZXshKYAtPuUbhJdMBAAMCAAN5AAM2BA"
-    photo = MediaAttachment(ContentType.PHOTO, file_id=MediaId(photo_id))
+    url = "https://fototips.ru/wp-content/uploads/2011/12/landscape_02.jpg"
+    photo = MediaAttachment(ContentType.PHOTO, url=url)
 
     is_registered = userdata is not None 
     return {
@@ -47,40 +49,50 @@ async def get_main_menu_data(dialog_manager: DialogManager, **kwargs):
 
 main_menu_dialog = Dialog(
     Window(
-        Const("Главное меню"),
+        Const(textblock["main_menu"]["title"]),
         Format(
-            "Добро пожаловать, {userdata.surname} {userdata.name} {userdata.patronymic}",
+            f"{textblock["main_menu"]["hello_text"]}\n"
+            "{userdata.surname} {userdata.name} {userdata.patronymic}",
             when=lambda data, w, h: data["is_registered"]
         ),
         DynamicMedia("photo"),
         Group(
             Button(
-                Const("Регистрация"), 
+                Const(textblock["main_menu"]["registration"]), 
                 id="main_menu_registration", 
                 on_click=main_menu_registration,
                 when=lambda data, w, h: not data["is_registered"]
             ),
 
             Button(
-                Const("Выйти"), 
+                Const(textblock["main_menu"]["exit"]), 
                 id="main_menu_logout", 
                 on_click=main_menu_logout,
                 when=lambda data, w, h: data["is_registered"]
             ),
             Button(
-                Const("Изменить данные"), 
+                Const(textblock["main_menu"]["change"]), 
                 id="update_data_change", 
                 on_click=update_data_change,
                 when=lambda data, w, h: data["is_registered"]
             ),
-            Button(Const("Поддержка"), id="main_menu_support", on_click=main_menu_support),
+            Button(
+                Const(textblock["main_menu"]["support"]), 
+                id="main_menu_support", 
+                on_click=main_menu_support
+            ),
         ),
         state=MainMenuDialogStates.main_menu,
         getter=get_main_menu_data
     ),
     Window(
-        Const("Поддержка"),
-        Button(Const("Назад"), id="support_back", on_click=support_back),
+        Const(textblock["support"]["title"]),
+        Const(textblock["support"]["tg_contacts"]),
+        Const(textblock["support"]["vk_contacts"]),
+        Button(
+            Const(textblock["support"]["back"]), 
+            id="support_back",
+            on_click=support_back),
         state=MainMenuDialogStates.support
     )
 )

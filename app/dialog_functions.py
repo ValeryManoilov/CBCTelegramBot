@@ -43,11 +43,6 @@ async def fio_cancel(callback: CallbackQuery, button: Button, manager: DialogMan
 
 
 
-redis_url = os.getenv("REDIS_URL", "redis://localhost:6379/0")
-
-redis_db = redis.from_url(redis_url, decode_responses=True)
-
-
 async def confirm_data_send(callback: CallbackQuery, button: Button, manager: DialogManager):
     tg_id = callback.from_user.id
     data = manager.dialog_data

@@ -4,30 +4,24 @@ from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy import BigInteger
 
-# Base = declarative_base()
-
-# admin_engine = create_engine("postgresql://postgres:batareyka@localhost:5432/postgres")
+admin_engine = create_engine("postgresql://postgres:batareyka@localhost:5432/postgres")
 engine = create_engine("postgresql://postgres:batareyka@localhost:5432/cbcdatabase")
+
+
+with admin_engine.connect() as conn:
+    result = conn.execute(text("""
+        SELECT 1 FROM pg_database WHERE datname = 'cbcdatabase'
+    """))
+    
+    if not result.scalar():
+        conn.execute(text("COMMIT"))
+        conn.execute(text("CREATE DATABASE cbcdatabase"))
+        print("База данных cbcdatabase создана")
+    else:
+        print("База данных cbcdatabase уже существует")
 
 Base.metadata.create_all(engine)
 
-# with admin_engine.connect() as conn:
-#     # Завершаем ВСЕ активные соединения с базой данных cbcdatabase
-#     conn.execute(text("""
-#         SELECT pg_terminate_backend(pg_stat_activity.pid)
-#         FROM pg_stat_activity
-#         WHERE pg_stat_activity.datname = 'cbcdatabase'
-#         AND pid <> pg_backend_pid();
-#     """))
-    
-#     # Теперь удаляем базу данных
-#     conn.execute(text("COMMIT"))
-#     conn.execute(text("DROP DATABASE IF EXISTS cbcdatabase"))
-#     print("База данных cbcdatabase удалена")
-    
-#     # Создаем заново
-#     conn.execute(text("CREATE DATABASE cbcdatabase"))
-#     print("База данных cbcdatabase создана")
 
 SessionLocal = sessionmaker(bind=engine)
 

@@ -3,11 +3,11 @@ from aiogram import Dispatcher, Bot, Router
 from aiogram.fsm.storage.redis import RedisStorage, DefaultKeyBuilder
 import os
 import asyncio
-from app.handlers_test import handler_router
 from aiogram_dialog import setup_dialogs
 from app.dialogs.confirm_updates_dialog import confirm_updates_router
 from app.dialogs.main_menu_dialog import main_menu_router
 from app.dialogs.registration_dialog import registration_router
+from app.handlers import start_router
 
 load_dotenv()
 
@@ -23,12 +23,16 @@ bot = Bot(token=token)
 
 dp = Dispatcher(storage=storage)
 
-setup_dialogs(dp)
 
 async def main():
+    
+    dp.include_router(router=start_router)
     dp.include_router(router=main_menu_router)
     dp.include_router(router=registration_router)
     dp.include_router(router=confirm_updates_router)
+    
+    setup_dialogs(dp)
+    
     await dp.start_polling(bot)
 
 if __name__ == "__main__":
