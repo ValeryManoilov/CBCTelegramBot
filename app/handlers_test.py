@@ -2,7 +2,7 @@ from aiogram import Router, F
 from aiogram.filters import CommandStart
 from aiogram.types import Message
 from aiogram_dialog import DialogManager
-from app.dialogs import MainMenuDialogStates, RegistrationDialogStates
+from app.states import MainMenuDialogStates, RegistrationDialogStates
 from aiogram.filters import StateFilter
 from aiogram.fsm.storage.redis import RedisStorage
 from dotenv import load_dotenv

@@ -1,0 +1,50 @@
+{
+    "main_menu_dialog": {
+        "main_menu": {
+            "title": "Главное меню",
+            "hello_text": "Добро пожаловать!",
+            "registration": "Регистрация",
+            "exit": "Выйти",
+            "change": "Изменить данные"
+        },
+        "support": {
+            "title": "Поддержка",
+            "tg_contacts": "Тг: @LitosferVM",
+            "vk_contacts": "Вк: https://vk.com/id453120269"
+        }
+    },
+    "registration_dialog": {
+        "registr_info": {
+            "title": "Информация о регистрации",
+            "text": "Вам нужно будет поочереди ввести ваши ФИО в бота",
+            "next": "Далее",
+            "cancel": "Отмена"
+        },
+        "input_surname": {
+            "title": "Введите фамилию: "
+        },
+        "input_name": {
+            "title": "Введите имя: "
+        },
+        "input_patronymic": {
+            "title": "Введите отчество: "
+        },
+        "confirm": {
+            "title": "Подтверждение введенных данных",
+            "confirm_and_send": "Подтвердить и отправить",
+            "change": "Изменить",
+            "cancel": "Отмена"
+        }
+    },
+    "confirm_updates_dialog": {
+        "input_new_surname": {
+            "title": "Введите новую фамилию: "
+        },
+        "input_new_name": {
+            "title": "Введите новое имя: "
+        },
+        "input_new_patronymic": {
+            "title": "Введите новое отчество: "
+        }
+    }
+}
